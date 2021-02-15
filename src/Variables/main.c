@@ -17,6 +17,14 @@ int main() {
     printf("b in hexadecimal: %x\n", b);
     printf("\n");
 
-    return 0;
+    float c = 3.141592f;
+    double d = 3.141592;
+    printf("c: %f\n", c);
+    printf("d: %f\n", d);
+    printf("*c and d have different format.\n");
+    printf("\n");
+// Program ends at this point...
+    printf("Declaration: Program ended.\n");
+    return 0; //Program exit with status code 0
 }
 
