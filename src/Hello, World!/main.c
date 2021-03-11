@@ -2,7 +2,7 @@
 
 int main() { //entry of main function
     printf("Hello, World!\n"); //\n for new line
-    return 0; //program ended with greate status: 0.
+    return 0; //program ended with great status: 0.
 }
 
 // test...
