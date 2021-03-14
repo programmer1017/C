@@ -29,7 +29,7 @@ int main() {
 
     float e = 1.2345678f;
 
-    printf("e: %5d\n", e); //되도록 5자리로 표기
+    printf("e: %5f\n", e); //되도록 5자리로 표기
     printf("e: %6.3f\n", e); //되도록 6자리로 표기하되, 소수점 3자리까지만 표기.
 
     printf("\n");

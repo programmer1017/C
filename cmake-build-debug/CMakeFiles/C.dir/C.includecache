@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/GithubRelease/C/src/Hello, World!/main.c
+stdio.h
+-
+
+E:/GithubRelease/C/src/Variables/main.c
+stdio.h
+-
+
+E:/GithubRelease/C/src/input/C_to_F/input.c
+stdio.h
+-
+
+E:/GithubRelease/C/src/input/If_statement/if.c
+stdio.h
+-
+
+E:/GithubRelease/C/src/input/If_statement/if_2nd/main.c
+stdio.h
+-
+
